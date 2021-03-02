@@ -107,7 +107,7 @@ h3 {
 /** Productos **/
 .producto {
     background-color: var(--primarioOscuro);
-    padding: 2rem;
+    
 }
 .producto:hover {
     transition: background-color .4s;
